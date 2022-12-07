@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-tutorial"
+  site-url: "https://erkandiken.github.io/nbdev-tutorial"
+  description: "A walkthrough tutorial of nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/erkandiken/nbdev-tutorial"
